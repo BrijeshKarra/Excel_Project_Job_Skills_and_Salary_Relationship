@@ -2,7 +2,7 @@
 # Data Science Jobs - Skills and Salary Relationship
 
 ## Introduction
- In this project, I explored how different Data Science job's skills affect salary using Power Query, Power Pivot, and DAX in Excel. The project involved cleaning and organizing the data, creating relationships between tables, calculating key metrics, and showing the results through easy-to-understand visuals.
+ In this project, I explored how different Data Science job skills affect salary using Power Query, Power Pivot, and DAX in Excel. The project involved cleaning and organizing the data, creating relationships between tables, calculating key metrics, and showing the results through easy-to-understand visuals.
 
 
 
@@ -122,7 +122,7 @@ Understanding in-demand skills helps professionals stay competitive and helps ed
     -  **Primary Axis:** Median Salary (as a Clustered Column)
     -  **Secondary Axis:** Skill Likelihood (as a Line with Markers)
 
-- To customize the chart, I added a title axis title, removed the lines (skill likelihood), and changed the markers to cirlces.
+- To customize the chart, I added an axis title, removed the lines (skill likelihood), and changed the markers to circles.
 
 ###  Analysis
 
