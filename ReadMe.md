@@ -3,6 +3,7 @@
 
 ## Introduction
  In this project, I explored how different Data Science job skills affect salary using Power Query, Power Pivot, and DAX in Excel. The project involved cleaning and organizing the data, creating relationships between tables, calculating key metrics, and showing the results through easy-to-understand visuals.
+ 
 Check the Excel workbook [here:](/Project_Analysis_In_Excel.xlsx)
 
 
