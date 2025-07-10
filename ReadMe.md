@@ -4,7 +4,7 @@
 ## Introduction
  In this project, I explored how different Data Science job skills affect salary using Power Query, Power Pivot, and DAX in Excel. The project involved cleaning and organizing the data, creating relationships between tables, calculating key metrics, and showing the results through easy-to-understand visuals.
  
-Check the Excel workbook [here:](/Project_Analysis_In_Excel.xlsx)
+Check the Excel workbook here: [Project_Analysis_In_Excel.xlsx](/Project_Analysis_In_Excel.xlsx)
 
 
 
@@ -139,4 +139,8 @@ This chart highlights the importance of investing time in high-value skills. Whi
 
 ## Conclusion
 In this project, I analyzed job titles, salaries, locations, and key skills using advanced Excel features like Power Query, PivotTables, DAX, and charts. The analysis revealed correlations between multiple skills and higher salaries, regional salary variations, and identified must-have skills for anyone pursuing a career in data science.
+
+## Credits: 
+The project was inspired by the online course [Excel for Data Analytics - Full Course for Beginners](https://www.lukebarousse.com/excel) by [Luke Barousse](https://github.com/lukebarousse).
+
 
